@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="btn_explicit">Explicit Intent</string>
+    <string name="btn_implicit">Implicit Intent</string>
+    <string name="btn_action_send">Action Send Intent</string>
+    <string name="btn_image">Image Select</string>
+    <string name="text_input">Input Text</string>
+    <string name="btn_vored">Vo Red</string>
+    <string name="btn_otkazi">Otkazi</string>
+</resources>
